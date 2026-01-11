@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asifa Ishaq - Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="resume">
+
+    <!-- LEFT SIDE -->
+    <div class="left">
+        <div class="logo">AI</div>
+
+        <h1>ASIFA<br>ISHAQ</h1>
+
+        <div class="contact">
+            <p>📧 asifa@example.com</p>
+            <p>📞 03XX-XXXXXXX</p>
+            <p>📍 Pakistan</p>
+        </div>
+
+        <h2>EDUCATION</h2>
+        <p><b>Intermediate in ICS</b><br>
+        Computer Science</p>
+
+        <p><b>BS Software Engineering</b><br>
+        (In Progress)</p>
+
+        <h2>COURSES</h2>
+        <p>MS Word</p>
+        <p>MS Excel</p>
+        <p>MS PowerPoint</p>
+
+        <h2>SKILLS</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>Basic JavaScript</li>
+            <li>Problem Solving</li>
+            <li>Software Documentation</li>
+            <li>MS Office Tools</li>
+        </ul>
+    </div>
+
+    <!-- RIGHT SIDE -->
+    <div class="right">
+
+        <h2>RESUME OBJECTIVE</h2>
+        <p>
+            Motivated Software Engineering student with a strong foundation in
+            computer science and software development. Seeking opportunities
+            to enhance technical skills and gain practical experience in
+            software design, development, and documentation.
+        </p>
+
+        <h2>ACADEMIC EXPERIENCE</h2>
+        <p><b>Software Engineering Student</b></p>
+        <ul>
+            <li>Developed basic web pages using HTML and CSS</li>
+            <li>Prepared software requirement documents</li>
+            <li>Worked on small academic programming projects</li>
+            <li>Learned software development life cycle (SDLC)</li>
+        </ul>
+
+        <h2>PROJECTS</h2>
+        <ul>
+            <li>Personal Resume Website (HTML & CSS)</li>
+            <li>Student Management System (Basic Concept)</li>
+            <li>Mini Projects using MS Office tools</li>
+        </ul>
+
+        <h2>LANGUAGES</h2>
+        <p>English – Good</p>
+        <p>Urdu – Fluent</p>
+
+    </div>
+
+</div>
+
+</body>
+</html>
+<!-- ============== PAGE BREAK ============== -->
+<div class="page-break"></div>
+
+<!-- ============== PAGE 2 ============== -->
+<div class="resume page">
+
+    <div class="right full">
+
+        <h2>ACADEMIC EXPERIENCE</h2>
+        <ul>
+            <li>Designed static websites using HTML & CSS</li>
+            <li>Prepared Software Requirement Specification (SRS)</li>
+            <li>Worked on university level software projects</li>
+            <li>Good understanding of SDLC models</li>
+        </ul>
+
+        <h2>PROJECTS</h2>
+        <ul>
+            <li>Personal CV / Portfolio Website</li>
+            <li>Student Management System (Academic Project)</li>
+            <li>Office Automation Tasks using MS Office</li>
+        </ul>
+
+        <h2>LANGUAGES</h2>
+        <p>English – Good</p>
+        <p>Urdu – Fluent</p>
+
+        <h2>STRENGTHS</h2>
+        <ul>
+            <li>Quick Learner</li>
+            <li>Team Work</li>
+            <li>Time Management</li>
+            <li>Problem Solving</li>
+        </ul>
+
+    </div>
+
+</div>
